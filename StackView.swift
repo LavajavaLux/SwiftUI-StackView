@@ -1,4 +1,3 @@
-// Copyright © 2026 LavajavaLux
 
 import SwiftUI
 
